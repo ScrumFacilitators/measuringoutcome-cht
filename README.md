@@ -24,7 +24,7 @@ Scrum Facilitators 的衡量結果 (Measuring Outcome) 已獲得[CC BY-NC-SA](ht
 
 *您有0,000001％的機會提出更好的設計。如果是這種情況，請隨時進行更改。如果您能提及我們，我們將非常樂意👍
 
-**學分**
+## 學分 (Credits)
 感謝 Tony Lee 的幫助
 
 ***
