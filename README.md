@@ -20,9 +20,10 @@
 
 ## 其他的語言
 
-- [Measure Outcomes](https://github.com/ScrumFacilitators/measuringoutcome-en/releases/latest) (English) / 英文 (original)
-- [Uitkomsten Meten](https://github.com/ScrumFacilitators/measuringoutcome-nl/releases/latest) (Nederlands) / 荷(蘭)文
-- [Medición del Resultado](https://github.com/ScrumFacilitators/measuringoutcome-es/releases/latest) (Español) / 西班牙文
+- [Uitkomsten Meten](https://github.com/ScrumFacilitators/measuringoutcome-nl/releases/latest) (nederlands) / Translation in dutch
+- [Medición del Resultado](https://github.com/ScrumFacilitators/measuringoutcome-es/releases/latest) (Español) / Translation in spanish
+- [衡量結果](https://github.com/ScrumFacilitators/measuringoutcome-cht/releases/latest) (中文) / Translation in Traditional Chinese
+- [Đo Lường Giá trị](https://github.com/ScrumFacilitators/measuringoutcome-vn/releases/latest) (Tiếng Việt) / Translation in Vietnamese
 
 ## 授權 (License)
 
